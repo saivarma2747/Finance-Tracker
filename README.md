@@ -58,22 +58,22 @@ This project is a **lightweight personal finance tracker** built with React and 
 
 ### 📦 Installation
 
-#### 1) Clone the repository
+# 1) Clone the repository
 git clone https://github.com/yourusername/finance-tracker.git
 cd finance-tracker
 
-#### 2) Install dependencies
+# 2) Install dependencies
 npm install
-#### or
+## or
 yarn
-#### or
+## or
 pnpm install
 
-#### 3) Start the development server
+# 3) Start the development server
 npm run dev
-#### or
+## or
 yarn dev
-#### or
+## or
 pnpm dev
 
 
