@@ -1,11 +1,13 @@
 # Finance-Tracker
 
-Finance Tracker
+<b>Finance Tracker</b>
+<br>
  This project is a personal finance tracker React app with TypeScript that lets users log, visualize, and analyze their incomes and expenses, featuring currency     selection, chart analytics, and persistent local storage.
  Easily add income and expenses, view analytics, and switch between currencies, all from a user-friendly dashboard.
 
 
-Feature: 
+<b>Feature:</b> 
+<br>
   1.Add, view, and remove transactions: Track incomes and expenses with categories, descriptions, and dates.
 
   2.Quick income entry: Fast-add recurring income sources like salary or freelance work.
@@ -20,7 +22,8 @@ Feature:
 
   7.Built with TypeScript: All code is type-safe and maintainable.
 
-Technologies:
+<b>Technologies:</b>
+<br>
   1.HTML & CSS
   2.React & Next.js
   3.TypeScript
