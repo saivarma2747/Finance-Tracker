@@ -24,10 +24,10 @@
 
 <b>Technologies:</b>
 <br>
-  1.HTML & CSS
-  2.React & Next.js
-  3.TypeScript
-  4.LocalStorage 
-  5.Exchange Rate API 
-  6.Fetch API
-  7.Charting: TransactionChart and CategoryChart
+  1.HTML & CSS <br>
+  2.React & Next.js <br>
+  3.TypeScript <br>
+  4.LocalStorage <br>
+  5.Exchange Rate API <br> 
+  6.Fetch API <br>
+  7.Charting: TransactionChart and CategoryChart 
