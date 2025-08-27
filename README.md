@@ -30,9 +30,8 @@ This project is a **lightweight personal finance tracker** built with React and 
 - ✅ **Charts**:  
   - Category distribution pie chart.  
   - Transaction timeline flow chart.  
-- ✅ **Responsive UI** with Shadcn components and Lucide icons.  
-
-## 🖼️ Demo
+- ✅ **Responsive UI** with Shadcn components and Lucide icons.
+- 
 
 ### Dashboard Snapshots
 - Currency picker with live conversion  
@@ -65,15 +64,19 @@ cd finance-tracker
 
 2) Install dependencies
 npm install
+
 or
 yarn
+
 or
 pnpm install
 
-3) Start the dev server
+4) Start the dev server
 npm run dev
+
 or
 yarn dev
+
 or
 pnpm dev
 
@@ -83,31 +86,6 @@ pnpm dev
 - `TransactionChart.tsx`: Line/area chart of transaction flow over time.  
 - `CategoryChart.tsx`: Pie/donut chart of expenses by category.  
 - Shadcn UI components: Card, Tabs, Select, Button, Input, Label, Badge.  
-
-## 📂 Project Structure
-
-src/
-├── components/
-│ ├── transaction-chart.tsx # Money flow chart
-│ ├── category-chart.tsx # Expenses by category chart
-│ └── ui/ # Shadcn UI components
-│ ├── card.tsx
-│ ├── button.tsx
-│ ├── input.tsx
-│ ├── label.tsx
-│ ├── select.tsx
-│ ├── tabs.tsx
-│ └── badge.tsx
-├── pages/
-│ └── FinanceTracker.tsx # Main feature page (this file)
-├── lib/
-│ └── utils.ts # Helpers (optional)
-├── assets/
-│ ├── dashboard.png
-│ ├── add-transaction.png
-│ └── charts.png
-└── main.tsx / App.tsx # App entry
-
 
 ## 📈 How It Works
 
